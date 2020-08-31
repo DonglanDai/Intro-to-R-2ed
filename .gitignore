@@ -3,7 +3,7 @@
 *.RData
 *.zip
 *.exe
-
+*xles
 # History files
 .Rhistory
 .Rapp.history
